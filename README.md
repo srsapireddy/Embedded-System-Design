@@ -1,8 +1,11 @@
-# New_Skills
+# Embedded System Design
 
 Embedded Systems:	    Embedded C, Keil, STMCube IDE </br>
-VLSI Design:		    PSpice, Verilog HDL </br>
-SoC Design:		    Integrating AHB peripherals to ARM, Synthesis of AHB peripherals, Synthesis of UART, Timer, Memory and GPIO, ZYNQ Programming </br>
-SoC Verification:   	    System Verilog, Verification of IPs based on AHB Lite/ APB/ AXI using System Verilog </br>
+RTOS architecture:	    FreeRTOS </br>
+Embedded Linux:		    Knowledge of Linux OS and internals of Linux </br>
+IoT:		   	    Python, Raspberry Pi </br>
+Programming:		    MATLAB & Simulink 
+Product Design:		    Product Development Process, PCB Design and Software Testing
+
 
 		
